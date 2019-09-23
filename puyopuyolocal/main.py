@@ -13,7 +13,6 @@ from aiclass import AI
 from elseclass import *
 from hyouji import *
 
-
 def main():
   gamen.start()
   while True:
